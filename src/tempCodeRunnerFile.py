@@ -1,0 +1,1 @@
+cap1.set(1, frame_number)
