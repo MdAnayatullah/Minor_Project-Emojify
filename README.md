@@ -4,7 +4,7 @@
 - Keras
 - Tenserflow
 
-  # Two part of databse
+  # Two parts of databse
   - Training
   - Testing
  
